@@ -1,4 +1,10 @@
 # 👩‍💻 Nada Shaban Mahmoud - Frontend Developer
+# Hi there, I'm Nada Shaban! 👋
+
+![Profile Views](https://komarev.com/ghpvc/?username=nadashaban10&color=blueviolet)
+
+Welcome to my GitHub profile! I'm a passionate software developer with a love for creating innovative solutions and contributing to open-source projects.
+
 
 Hello! I'm Nada, a **junior frontend developer** passionate about crafting interactive and visually appealing user interfaces. I love transforming ideas into clean, functional, and responsive web applications.
 
