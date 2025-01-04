@@ -33,7 +33,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 - **Visit My Portfolio**: [https://portfolio-nadashaban10s-projects.vercel.app/]
 
 ## 📈 GitHub Stats
-
-![Nada's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadashaban10&show_icons=true&theme=radical)
+![Nada's GitHub Streak](https://streak-stats.demolab.com?user=nadashaban10&theme=radical&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadashaban10&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=nadashaban10&theme=radical&hide_border=true)
+
