@@ -24,5 +24,5 @@ Hello! I'm Nada, a **junior frontend developer** passionate about crafting inter
 ## 📫 Get in Touch
 
 - **Email**: [nadashapann@gmail.com](mailto:nadashapann@gmail.com)  
-- **Portfolio**: [[Your Portfolio Link](https://portfolio-nadashaban10s-projects.vercel.app/)]
+- **Visit My Portfolio**: [(https://portfolio-nadashaban10s-projects.vercel.app/)]
 
