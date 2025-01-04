@@ -26,14 +26,14 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 - To deepen my knowledge of **frontend development** and explore more advanced React and JavaScript frameworks.  
 - To work on impactful projects and grow as a developer by learning from experienced team members.
-- 
+
 ## 📫 How to reach me
 
 - **Email**: [nadashapann@gmail.com](mailto:nadashapann@gmail.com)  
-- **Visit My Portfolio**: [(https://portfolio-nadashaban10s-projects.vercel.app/)]
-
+- **Visit My Portfolio**: [https://portfolio-nadashaban10s-projects.vercel.app/]
 
 ## 📈 GitHub Stats
 
 ![Nada's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadashaban10&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadashaban10&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=nadashaban10&theme=radical&hide_border=true)
