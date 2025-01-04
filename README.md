@@ -16,14 +16,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 
-## 💻 Skills & Technologies
-
-- **Languages**: HTML, CSS, JavaScript, React.js  
-- **State Management**: Redux Toolkit  
-- **Styling**: Tailwind CSS, SCSS  
-- **API Integration**: Axios, REST APIs  
-- **Tools**: Git, Visual Studio Code, Postman  
-
 ## 🌟 About Me
 
 - 🚀 I specialize in building **dynamic web applications** with React and implementing state management solutions for scalable projects.  
